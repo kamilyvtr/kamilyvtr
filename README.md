@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="250" style="border-radius: 20px; border: 5px solid transparent; background: linear-gradient(45deg, #ff79c6, #bd93f9, #8be9fd) border-box; box-shadow: 0 0 40px rgba(139, 233, 253, 0.6);" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FwMTB5aXJpODh1cXQxZzBpczNjdjN4b2Nuc2dqc3lhbzM1bHVsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif" alt="tech girl coding gif" />
+  <img align="center" height="250" style="border-radius: 20px; border: 5px solid transparent; background: linear-gradient(45deg, #ff79c6, #bd93f9, #8be9fd) border-box; box-shadow: 0 0 40px rgba(139, 233, 253, 0.6);" src="https://i.imgur.com/ECB99LW.gif" />
 </div>
 
 ###
