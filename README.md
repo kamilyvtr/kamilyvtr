@@ -2,11 +2,7 @@
 
 <!-- HEADER ANIMADO COM GIF -->
 <img src="https://i.pinimg.com/originals/84/64/35/846435eac29c166a2ee462dcc00d6e49.gif" width="480" alt="aesthetic girl coding gif"/>
-
-<!-- TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Kamily+%F0%9F%91%8B%F0%9F%8F%BB;Estudante+de+ADS+%F0%9F%92%BB;Desenvolvedora+Web+em+formação+%E2%9C%A8;Apaixonada+por+código+%26+design+%F0%9F%8C%B8)](https://git.io/typing-svg)
-
-<!-- CONTADOR DE VISITAS -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+a+Kamily;Estudante+de+ADS;Desenvolvedora+Web+em+formacao;Apaixonada+por+codigo+%26+design)](https://git.io/typing-svg)
 <img src="https://komarev.com/ghpvc/?username=Kamilyvtr&color=C084FC&style=for-the-badge&label=VISITANTES" alt="profile views"/>
 
 <br/>
@@ -26,16 +22,16 @@ const kamily = {
   nome:       "kamily vitória",
   curso:      "Análise e Desenvolvimento de Sistemas (ADS)",
   foco:       "Desenvolvimento Web Full Stack",
-  atualmente: "Estudando novas linguagens 🚀",
-  hobbies:    ["codar ☕", "design", "aprender algo novo"],
+  atualmente: "Estudando novas linguagens",
+  hobbies:    ["codar", "design", "aprender algo novo"],
 };
 ```
 
 <img align="right" src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif" width="340" alt="pink aesthetic coding gif"/>
 
-- 🎓 Cursando **Análise e Desenvolvimento de Sistemas**
-- 🌱 Atualmente aprendendo **novas linguagens**
-- 💡 Apaixonada por tecnologia
+- <img src="https://img.icons8.com/fluency/20/graduation-cap.png"/> Cursando **Análise e Desenvolvimento de Sistemas**
+- <img src="https://img.icons8.com/fluency/20/seedling.png"/> Atualmente aprendendo **novas linguagens**
+- <img src="https://img.icons8.com/fluency/20/idea.png"/> Apaixonada por tecnologia
 
 <br clear="right"/>
 
@@ -43,7 +39,7 @@ const kamily = {
 
 ## Habilidades & Tecnologias
 
-###  Front-end
+### <img src="https://img.icons8.com/fluency/20/monitor.png"/> Front-end
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,20 +49,20 @@ const kamily = {
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div>
 
-### Back-end
+### <img src="https://img.icons8.com/fluency/20/server.png"/> Back-end
 <div>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
-### Banco de Dados
+### <img src="https://img.icons8.com/fluency/20/database.png"/> Banco de Dados
 <div>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 
-### 🔧 Ferramentas & Ambiente
+### <img src="https://img.icons8.com/fluency/20/settings.png"/> Ferramentas & Ambiente
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -96,14 +92,4 @@ const kamily = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamilyvtr&bg_color=0D1117&color=C084FC&line=C084FC&point=F38BA8&area=true&hide_border=true" alt="Activity Graph"/>
-</div>
-
----
-
-<div align="center">
-
-### 💜 Obrigada pela visita!
----
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20&height=100&section=footer&animation=fadeIn" width="100%"/>
-
 </div>
