@@ -1,8 +1,12 @@
 <div align="center">
 
-<!-- HEADER ANIMADO COM GIF -->
+
 <img src="https://i.pinimg.com/originals/84/64/35/846435eac29c166a2ee462dcc00d6e49.gif" width="480" alt="aesthetic girl coding gif"/>
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Ola%2C+eu+sou+a+Kamily;Estudante+de+ADS;Desenvolvedora+Web+em+formacao;Apaixonada+por+codigo+%26+design)](https://git.io/typing-svg)
+
+
 <img src="https://komarev.com/ghpvc/?username=Kamilyvtr&color=C084FC&style=for-the-badge&label=VISITANTES" alt="profile views"/>
 
 <br/>
