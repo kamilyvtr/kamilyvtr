@@ -16,7 +16,7 @@
 </div>
 <br/>
 
-<!-- SOBRE MIM -->
+
 ## ⟢ sobre mim
 
 <img align="right" src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif" width="300" alt="pink aesthetic gif"/>
@@ -37,8 +37,6 @@ const kamily = {
 <br clear="right"/>
 
 ---
-
-<!-- STACK -->
 ## ⟢ minha stack
 
 <div align="center">
@@ -67,7 +65,7 @@ const kamily = {
 
 </div>
 
-<!-- STATS -->
+
 ## ⟢ estatísticas
 
 <div align="center">
@@ -80,7 +78,7 @@ const kamily = {
 
 ---
 
-<!-- ACTIVITY GRAPH -->
+
 ## ⟢ gráfico de atividade
 
 <div align="center">
@@ -89,5 +87,4 @@ const kamily = {
 
 ---
 
-<!-- QUOTE -->
-<div align="center">
+
