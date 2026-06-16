@@ -1,20 +1,4 @@
-<div align="center">
-<img src="https://i.pinimg.com/originals/84/64/35/846435eac29c166a2ee462dcc00d6e49.gif" width="560" alt="aesthetic coding gif"/>
-<br/>
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Oi%2C+eu+sou+a+Kamily+%E2%9C%A7%E2%82%8A%E2%8A%B9;Estudante+de+ADS+em+constante+evolu%C3%A7%C3%A3o;Desenvolvedora+Web+em+forma%C3%A7%C3%A3o;Transformando+caf%C3%A9+em+c%C3%B3digo+%E2%98%95" alt="typing animation"/>
-</a>
-<br/>
-<img src="https://komarev.com/ghpvc/?username=Kamilyvtr&color=C084FC&style=for-the-badge&label=VISITANTES" alt="profile views"/>
-<br/><br/>
-<a href="https://www.instagram.com/kamilyvitoria.fg">
-  <img src="https://img.shields.io/badge/-@kamilyvitoria.fg-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/>
-</a>
-<a href="mailto:kvgomes18@icloud.com">
-  <img src="https://img.shields.io/badge/-kvgomes18@icloud.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>
-</a>
-</div>
-<br/>
+
 
 
 ## ⟢ sobre mim
