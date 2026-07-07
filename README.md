@@ -25,7 +25,7 @@ apaixonada por construir soluções eficientes e interfaces cuidadosas
 
 **front-end**  
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap&theme=dark&perline=6" alt="frontend stack"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap&theme=dark&perline=6" alt="frontend stack"/>
 </a>
 
 **back-end**  
@@ -56,12 +56,12 @@ apaixonada por construir soluções eficientes e interfaces cuidadosas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kamilyvtr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=CDD6F4&ring_color=C084FC" height="165" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kamilyvtr&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CDD6F4&langs_count=8" height="165" alt="top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kamilyvtr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=CDD6F4&ring_color=C084FC&cache_seconds=86400" height="165" alt="github stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilyvtr&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CDD6F4&langs_count=8&cache_seconds=86400" height="165" alt="top languages"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kamilyvtr&theme=material-palenight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=F38BA8&currStreakLabel=C084FC&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="github streak"/>
+<img src="https://streak-stats.demolab.com?user=kamilyvtr&theme=material-palenight&hide_border=true&background=0D1117&stroke=C084FC&ring=C084FC&fire=F38BA8&currStreakLabel=C084FC&sideLabels=CDD6F4&dates=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4" alt="github streak"/>
 
 </div>
 
@@ -70,5 +70,5 @@ apaixonada por construir soluções eficientes e interfaces cuidadosas
 ## ⟢ gráfico de atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kamilyvtr&bg_color=0D1117&color=C084FC&line=C084FC&point=F38BA8&area=true&hide_border=true&custom_title=Contribuições%20no%20último%20ano" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilyvtr&bg_color=0D1117&color=C084FC&line=C084FC&point=F38BA8&area=true&hide_border=true&custom_title=Contribuições%20no%20último%20ano" alt="activity graph"/>
 </div>
