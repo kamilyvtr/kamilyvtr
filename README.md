@@ -1,25 +1,25 @@
-# ⟢ sobre mim
+# âŸ¢ sobre mim
 <img align="right" src="https://media1.tenor.com/m/AOdIxLQUvVcAAAAd/pink-aesthetic.gif" width="300" alt="pink aesthetic gif"/>
 
 ```javascript
 const kamily = {
-  nome:       "kamily vitória",
-  curso:      "Análise e Desenvolvimento de Sistemas (ADS)",
+  nome:       "kamily vitÃ³ria",
+  curso:      "AnÃ¡lise e Desenvolvimento de Sistemas (ADS)",
   foco:       "Desenvolvimento de Software",
   atualmente: "Aprofundando conhecimentos em linguagens e tecnologias",
   hobbies:    ["codar", "design", "aprender algo novo"],
 };
 ```
 
-cursando **Análise e Desenvolvimento de Sistemas**  
-explorando novas linguagens, frameworks e paradigmas de programação  
-apaixonada por construir soluções eficientes e interfaces cuidadosas  
+cursando **AnÃ¡lise e Desenvolvimento de Sistemas**  
+explorando novas linguagens, frameworks e paradigmas de programaÃ§Ã£o  
+apaixonada por construir soluÃ§Ãµes eficientes e interfaces cuidadosas  
 
 <br clear="right"/>
 
 ---
 
-## ⟢ minha stack
+## âŸ¢ minha stack
 
 <div align="center">
 
@@ -52,12 +52,12 @@ apaixonada por construir soluções eficientes e interfaces cuidadosas
 
 ---
 
-## ⟢ estatísticas
+## âŸ¢ estatÃ­sticas
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kamilyvtr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=CDD6F4&ring_color=C084FC&cache_seconds=86400" height="165" alt="github stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamilyvtr&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CDD6F4&langs_count=8&cache_seconds=86400" height="165" alt="top languages"/>
+<img src="https://stats-kamilyvtr.vercel.app/api?username=kamilyvtr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=C084FC&text_color=CDD6F4&ring_color=C084FC&cache_seconds=86400" height="165" alt="github stats"/>
+<img src="https://stats-kamilyvtr.vercel.app/api/top-langs/?username=kamilyvtr&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=CDD6F4&langs_count=8&cache_seconds=86400" height="165" alt="top languages"/>
 
 <br/><br/>
 
@@ -67,8 +67,8 @@ apaixonada por construir soluções eficientes e interfaces cuidadosas
 
 ---
 
-## ⟢ gráfico de atividade
+## âŸ¢ grÃ¡fico de atividade
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilyvtr&bg_color=0D1117&color=C084FC&line=C084FC&point=F38BA8&area=true&hide_border=true&custom_title=Contribuições%20no%20último%20ano" alt="activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kamilyvtr&bg_color=0D1117&color=C084FC&line=C084FC&point=F38BA8&area=true&hide_border=true&custom_title=ContribuiÃ§Ãµes%20no%20Ãºltimo%20ano" alt="activity graph"/>
 </div>
